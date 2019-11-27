@@ -8,5 +8,10 @@
 	<br><br>
 	
 	<a href="student/mainForm">Student Form</a>
+	
+	<br><br>
+	
+	<a href="customer/mainCustomer">Customer Form</a>
+	
 </body>
 </html>
